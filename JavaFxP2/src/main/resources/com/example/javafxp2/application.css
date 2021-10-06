@@ -1,0 +1,23 @@
+.root{
+    -fx-background-color: #24d08e;
+}
+#title{
+    -fx-text-fill:white;
+    -fx-font-size: 20;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-border-color: Red ;
+    -fx-background-color:Black;
+    -fx-alignment:Center;
+    -fx-border-width:2;
+
+}
+
+#text{
+    -fx-text-fill:White;
+    -fx-font-size: 15;
+    -fx-font-family: "JetBrains Mono Thin";
+    -fx-border-color:white;
+    -fx-background-color:Black;
+    -fx-alignment:Center;
+    -fx-border-width:2;
+}
