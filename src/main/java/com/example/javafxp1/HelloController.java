@@ -31,8 +31,13 @@ public class HelloController {
     }
     @FXML
     protected void onrightButtonClick() {
-        System.out.println("RIGHT");
+//        System.out.println("RIGHT");
 //        welcomeText.setText("Welcome to JavaFX Application!");
         OpCircle.setCenterX(x=x+10);
+    }
+    @FXML
+    protected void onresetButtonClick(){
+        OpCircle.setCenterX(x=0);
+        OpCircle.setCenterY(y=0);
     }
 }
