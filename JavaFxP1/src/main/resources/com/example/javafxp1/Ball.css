@@ -1,0 +1,28 @@
+.root{
+    -fx-background-color: black;
+}
+#title{
+    -fx-font-family: "Comic Sans MS";
+    -fx-text-fill: White;
+}
+#Up{
+    -fx-border-color: Red;
+    -fx-border-width: 2;
+}
+#Down{
+    -fx-border-color: Red;
+    -fx-border-width: 2;
+}
+#Left{
+    -fx-border-color: Red;
+    -fx-border-width: 2;
+}
+#Right
+{
+    -fx-border-color: Red;
+    -fx-border-width: 2;
+}
+#Reset{
+    -fx-border-color: Red;
+    -fx-border-width: 2;
+}
